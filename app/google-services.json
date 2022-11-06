@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "927890353643",
+    "firebase_url": "https://customprogram-edc0a-default-rtdb.firebaseio.com",
+    "project_id": "customprogram-edc0a",
+    "storage_bucket": "customprogram-edc0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927890353643:android:4dda016e3f95c3fa117dae",
+        "android_client_info": {
+          "package_name": "au.edu.swin.customprojectprofinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927890353643-3ndrigbo7ne4p6sc2107fbv2hsnuur2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkkgTmHzfC0cUUu7gcHi_Fo6V5y0bC_5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927890353643-3ndrigbo7ne4p6sc2107fbv2hsnuur2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
